@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/spacetelescope/spherical_geometry/commit/f2b2b5628a0b1d80e98caf841f27e2dfab9d8450",
       "git:hexsha": "f2b2b5628a0b1d80e98caf841f27e2dfab9d8450",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-10-17T01:09:40.525418+00:00"
     },
     {
       "@id": "https://repolex.ai/r/spacetelescope/spherical_geometry/commit/b4e7db4b375420de7b0cb8ca314c9f13ad0a87a7",
