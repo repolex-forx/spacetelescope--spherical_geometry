@@ -1,0 +1,11 @@
+{
+  "org": "spacetelescope",
+  "repo": "spherical_geometry",
+  "versions": [
+    {
+      "commit": "f2b2b5628a0b1d80e98caf841f27e2dfab9d8450",
+      "tag": "",
+      "parsed_at": "2026-10-17T01:09:40.526086+00:00"
+    }
+  ]
+}
